@@ -46,8 +46,8 @@ var APP_DATA = {
         {
           "yaw": 2.3072463923342115,
           "pitch": -0.2657074256584053,
-          "title": "<img src='floorplan10.jpg'>",
-          "text": "Text"
+          "title": "格局圖",
+          "text": "<img src='floorplan10.jpg'>"
         }
       ]
     },
